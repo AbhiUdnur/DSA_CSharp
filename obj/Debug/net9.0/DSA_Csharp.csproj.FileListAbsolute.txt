@@ -1,0 +1,14 @@
+C:\DSA\DSA_Csharp\bin\Debug\net9.0\DSA_Csharp.exe
+C:\DSA\DSA_Csharp\bin\Debug\net9.0\DSA_Csharp.deps.json
+C:\DSA\DSA_Csharp\bin\Debug\net9.0\DSA_Csharp.runtimeconfig.json
+C:\DSA\DSA_Csharp\bin\Debug\net9.0\DSA_Csharp.dll
+C:\DSA\DSA_Csharp\bin\Debug\net9.0\DSA_Csharp.pdb
+C:\DSA\DSA_Csharp\obj\Debug\net9.0\DSA_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\DSA\DSA_Csharp\obj\Debug\net9.0\DSA_Csharp.AssemblyInfoInputs.cache
+C:\DSA\DSA_Csharp\obj\Debug\net9.0\DSA_Csharp.AssemblyInfo.cs
+C:\DSA\DSA_Csharp\obj\Debug\net9.0\DSA_Csharp.csproj.CoreCompileInputs.cache
+C:\DSA\DSA_Csharp\obj\Debug\net9.0\DSA_Csharp.dll
+C:\DSA\DSA_Csharp\obj\Debug\net9.0\refint\DSA_Csharp.dll
+C:\DSA\DSA_Csharp\obj\Debug\net9.0\DSA_Csharp.pdb
+C:\DSA\DSA_Csharp\obj\Debug\net9.0\DSA_Csharp.genruntimeconfig.cache
+C:\DSA\DSA_Csharp\obj\Debug\net9.0\ref\DSA_Csharp.dll
